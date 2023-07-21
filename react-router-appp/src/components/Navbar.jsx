@@ -9,19 +9,19 @@ const Navbar = () => {
     <Link to="/">
       <h1>Portfolio</h1>
       </Link>
-      <ul>
-        <Li>
+      <ul className="nav-menu">
+         <li>
           <Link to="/">Home</Link>
-        </Li>
-        <Li>
+        </li>
+        <li>
           <Link to="/project">Project</Link>
-        </Li>
-        <Li>
+        </li>
+        <li>
           <Link to="/about">About</Link>
-        </Li>
-        <Li>
+        </li>
+        <li>
           <Link to="/contact">Contact</Link>
-        </Li>
+        </li>
       </ul>
     </div>
   );
