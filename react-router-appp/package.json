@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
     "es7": "^1.0.8-beta.4",
     "family": "^0.1.0",
     "font": "^0.0.4",
