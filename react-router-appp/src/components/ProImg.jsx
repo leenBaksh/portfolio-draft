@@ -1,6 +1,6 @@
 import "./ProImgStyles.css"
 import React from "react";
-import IntroImg from  "../assest/1.gif"
+import IntroImg from  "../assest/black face img.jpeg"
 import { Link } from "react-router-dom";
 
 const ProImg = () => {
