@@ -5,8 +5,8 @@ import ProImg from '../components/ProImg';
 const Home = () => {
   return (
     <div>
-      <Navbar/>
-      < ProImg/>
+      <Navbar />
+      < ProImg />
     </div>
   )
 };
