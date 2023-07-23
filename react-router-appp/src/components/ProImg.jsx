@@ -11,7 +11,7 @@ const ProImg = () => {
         <img className ="intro-img" src={IntroImg} alt="IntroImg"/>
       </div>
       <div className="content">
-        <p>HI I'M A<br></br>
+        <p>HI, I'M A <br></br>
 
         <Typical 
         loop={Infinity}
