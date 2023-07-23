@@ -2,7 +2,7 @@ import "./ProImgStyles.css"
 import React from "react";
 import IntroImg from  "../assest/face pic.jpeg";
 import { Link } from "react-router-dom";
-import Typical from 'react-typical';
+import Typical from "react-typical";
 
 const ProImg = () => {
   return (
